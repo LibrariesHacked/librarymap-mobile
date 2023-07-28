@@ -1,0 +1,7 @@
+{
+  "name": "Library Map",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
